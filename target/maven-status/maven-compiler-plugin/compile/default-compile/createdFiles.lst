@@ -1,0 +1,6 @@
+com/example/crudapi/service/ItemService.class
+com/example/crudapi/model/Item.class
+com/example/crudapi/controller/ItemController.class
+com/example/crudapi/service/impl/ItemServiceImpl.class
+com/example/crudapi/repository/ItemRepository.class
+com/example/crudapi/CrudApiApplication.class
